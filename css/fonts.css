@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'BPG LE Studio 02 Caps';
+    src: url('../fonts/bpg-le-studio-02-caps-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-le-studio-02-caps-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-le-studio-02-caps-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-le-studio-02-caps-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-le-studio-02-caps-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-le-studio-02-caps-webfont.svg#bpg_le_studio_02_capsregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Zilla Slab';
+    src: url('../fonts/ZillaSlab-Bold.eot');
+    src: url('../fonts/ZillaSlab-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ZillaSlab-Bold.woff2') format('woff2'),
+        url('../fonts/ZillaSlab-Bold.woff') format('woff'),
+        url('../fonts/ZillaSlab-Bold.svg#ZillaSlab-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

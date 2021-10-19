@@ -49,6 +49,8 @@
 
 .section-2-title{
 	margin-bottom: 30px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
 }
 
 .block-image{
@@ -60,6 +62,7 @@
 	width: 355px;
 	vertical-align: middle;
 	margin-left: 60px;
+	font-family: 'Zilla Slab', serif;
 }
 /*section 2 end*/
  
@@ -102,6 +105,8 @@
 .article-class{
 	font-size: 22px;
 	margin-bottom: 17px;
+	font-family: "BPG LE Studio 02 Caps", sans-serif;
+	font-weight: bold;
 }
 
 .article-img{
@@ -113,6 +118,8 @@
 	display: inline-block;
 	width: 930px;
 	vertical-align: top;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-weight: bold;
 }
 
 .article-text{
